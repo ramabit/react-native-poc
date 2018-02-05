@@ -1,2 +1,2 @@
-# react-native-poc
-react-native proof of concept project (demo)
+# albums
+react-native albums project
